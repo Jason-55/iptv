@@ -1,5 +1,5 @@
 📺央视频道,#genre#
-CCTV-1
+CCTV1,http://27.148.240.138/PLTV/88888888/224/3221226773/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EoZ-ICuHW6yqOfZGPqMmekg%7EtaBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20190928020517%2C2470444%2C218.66.114.183%2C20190928020517%2CUmai%3ACHAN%2F111128%40BESTV.SMG.SMG%2C247044420190928020517%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBRABDzthTEwMHkCvpm5lEgqbG5j49sLk1vb7v_SfHEg8H8U4EzGP78qIhEkg6kZdGbWie10-kpzHacGTdMcL1qzOiUCLKESreXii25bFq9F9OolC-ZZbgu_siHvbhfnmaMMMm-13vM8OWZSnRRbFOZvWawO-Xwh7gS_NYMGhuhgdBNECeWQWZA8aKxjwXz54V6eWJj8jGGYo1QAAAA$!白名单接口
 CCTV-2
 CCTV-3
 CCTV-4
@@ -40,7 +40,8 @@ CCTV-15
 天津卫视
 
 ☘️福建频道,#genre#
-厦门卫视
+泉州-1,rtmp://live.qztv.cn/live/news$!白名单接口
+泉州-4,rtmp://live.qztv.cn/live/mny$!白名单接口
 晋江电视台
 福州少儿
 福建新闻
@@ -48,10 +49,10 @@ CCTV-15
 福建海峡卫视
 
 🌊港·澳·台,#genre#
+凤凰资讯,http://27.148.240.138/PLTV/88888888/224/3221226929/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EHsFSjC80UAQc1eSTpA_tyA%7EtaBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20190928020517%2C2470444%2C218.66.114.183%2C20190928020517%2CUmai%3ACHAN%2F3414601%40BESTV.STA.SMG%2C247044420190928020517%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBRABDzthTEwMHkCvpm5lEgqbG5j49sLk1vb7v_SfHEg8H8U4EzGP78qIhEkg6kZdGbWie10-kpzHacGTdMcL1qzOiUCLKESreXii25bFq9F9OolC-ZZbgu_siHvbhfnmaMMMm-13vM8OWZSnRRbFOZvWawO-Xwh7gS_NYMGhuhgdBNECeWQWZA8aKxjwXz54V6eWJj8jGGYo1QAAAA$!白名单接口
+凤凰中文,http://27.148.240.138/PLTV/88888888/224/3221226980/index.m3u8?rrsip=27.148.240.138&zoneoffset=480&servicetype=1&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ElpLbHvMMojqSiW0f8kVhfw%7EtaBSh2ikAZOgZpaWWm7p-2l89BPVTVtsRAe9bvTBI4I-94QlgeGu6Kn3ZNGPmS4rJewGgMD2bXWlEoOhQ8IOrdFzom3UHbf862JN6bdDQu0%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20190928020517%2C2470444%2C218.66.114.183%2C20190928020517%2CUmai%3ACHAN%2F3414606%40BESTV.STA.SMG%2C247044420190928020517%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBRABDzthTEwMHkCvpm5lEgqbG5j49sLk1vb7v_SfHEg8H8U4EzGP78qIhEkg6kZdGbWie10-kpzHacGTdMcL1qzOiUCLKESreXii25bFq9F9OolC-ZZbgu_siHvbhfnmaMMMm-13vM8OWZSnRRbFOZvWawO-Xwh7gS_NYMGhuhgdBNECeWQWZA8aKxjwXz54V6eWJj8jGGYo1QAAAA$!白名单接口
 凤凰香港
-凤凰卫视
 TVBS亚洲
-香港卫视
 三立台湾
 三立新闻
 
@@ -69,9 +70,7 @@ CN卡通
 金鹰卡通
 睛彩少儿
 炫动卡通
-24H国漫热播
 浙江少儿
-河北少儿科教
 七龙珠
 火影忍者
 海绵宝宝
