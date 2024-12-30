@@ -34,8 +34,8 @@ CCTV-15
 天津卫视
 
 ☘️福建频道,#genre#
-泉州-1,rtmp://live.qztv.cn/live/news$!白名单接口
-泉州-4,rtmp://live.qztv.cn/live/mny$!白名单接口
+泉州-1
+泉州-4
 晋江电视台
 福建新闻
 福建经济
