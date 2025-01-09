@@ -7,4 +7,5 @@ CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=
 CCTV3,http://42.48.50.138:9002/tsfile/live/0003_1.m3u8
 CCTV5,http://175.10.230.91:8081/tsfile/live/0005_1.m3u8
 CCTV13,http://itms4.sdlk.vip:6721/hls/206/index.m3u8
-辽宁卫视，http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697
+辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697
+浙江卫视,https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1736460329-40c6a724709a04eaa815b98c7acddcaa-0-f62cfb10ab075446643a0caf69115ffb
