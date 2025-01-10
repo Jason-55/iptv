@@ -8,7 +8,7 @@ CCTV1,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8$订阅源-1920x1080
 CCTV1,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 CCTV1,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8$订阅源-1920x1080
 CCTV1,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8?key=txiptv$订阅源-1920x1080
-CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp$白名单
+CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907$白名单
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
 CCTV-2,http://218.89.240.144:59901/tsfile/live/0002_1.m3u8$订阅源-1920x1080
 CCTV-2,http://218.89.240.144:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
