@@ -3,7 +3,7 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 https://gitee.com/yxuancai/iptv/raw/master/fjdx.txt
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp
+CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907
 CCTV3,http://42.48.50.138:9002/tsfile/live/0003_1.m3u8
 CCTV5,http://175.10.230.91:8081/tsfile/live/0005_1.m3u8
 CCTV13,http://itms4.sdlk.vip:6721/hls/206/index.m3u8
