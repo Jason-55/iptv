@@ -5,7 +5,7 @@
 https://gitee.com/yxuancai/iptv/raw/master/fjdx.txt
 CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907
 CCTV-4,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-4sd/1500.m3u8?innersid=2
-CCTV-5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4
+#CCTV-5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4
 CCTV-5,http://175.10.230.91:8081/tsfile/live/0005_1.m3u8
 CCTV-5,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5
 CCTV-5,http://221.224.4.170:1111/tsfile/live/0005_1.m3u8
