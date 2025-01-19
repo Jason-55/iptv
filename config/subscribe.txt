@@ -20,3 +20,4 @@ https://ghproxy.1888866.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.
 https://gitee.com/yxuancai/iptv/raw/master/fjdx.txt
 https://tvv.wqwqwq.sbs/iptv.m3u
 https://github.com/ssili126/tv/blob/main/itvlist.m3u
+http://wx.thego.cn/fm.txt
